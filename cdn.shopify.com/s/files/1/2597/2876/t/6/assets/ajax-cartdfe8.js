@@ -57,7 +57,7 @@ if (!Shopify.formatMoney) {
 
 /*============================================================================
   Ajax the add to cart experience by revealing it in a side drawer
-  Plugin Documentation - http://shopify.github.io/Timber/#ajax-cart
+  Plugin Documentation - https://shopify.github.io/Timber/#ajax-cart
   (c) Copyright 2015 Shopify Inc. Author: Carson Shold (@cshold). All Rights Reserved.
 
   This file includes:
